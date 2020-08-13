@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    YULI EKA SAFITRI
+                    YULI EKA SAFITRi
                 </div>
 
                 <div class="links">
